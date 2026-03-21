@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "mcp__selenium__navigate",
+      "mcp__selenium__send_keys",
+      "mcp__selenium__press_key",
+      "mcp__selenium__start_browser",
+      "mcp__selenium__execute_script",
+      "mcp__selenium__interact"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "selenium"
+  ]
+}
